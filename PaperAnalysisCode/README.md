@@ -1,0 +1,1 @@
+This folder contains the python scripts (pyXSPEC in Python 2.6 or 2.7), the arf, rmfs and other input files used in the analysis. Updates to the code will be needed to accommodate more recent versions of XSPEC and Python before adapting to an updated analysis.
