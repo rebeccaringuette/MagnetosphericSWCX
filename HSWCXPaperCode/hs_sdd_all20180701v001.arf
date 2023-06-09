@@ -1,0 +1,91 @@
+SIMPLE  =                    T / conforms to FITS standard                      BITPIX  =                    8 / array data type                                NAXIS   =                    0 / number of array dimensions                     EXTEND  =                    T                                                  TELESCOP= 'HALOSAT '           / Telescope (mission) name                       INSTRUME= 'SDD     '           / Instrument name                                DATE    = '2020-01-22T00:00:00' / File creation data                            CHECKSUM= '9M829J529J529J52'   / HDU checksum updated 2020-04-23T23:48:26       DATASUM = '         0'         / data unit checksum updated 2020-04-23T23:48:26 END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'BINTABLE'           / binary table extension                         BITPIX  =                    8 / array data type                                NAXIS   =                    2 / number of array dimensions                     NAXIS1  =                   12 / length of dimension 1                          NAXIS2  =                  455 / length of dimension 2                          PCOUNT  =                    0 / number of group parameters                     GCOUNT  =                    1 / number of groups                               TFIELDS =                    3 / number of table fields                         TTYPE1  = 'ENERG_LO '          / Energy minimum                                 TFORM1  = '1E       '          / data format of field: 4-byte REAL              TUNIT1  = 'keV     '           / physical unit of field                         TTYPE2  = 'ENERG_HI'           / Energy maximum                                 TFORM2  = '1E       '          / data format of field: 4-byte REAL              TUNIT2  = 'keV     '           / physical unit of field                         TTYPE3  = 'SPECRESP'           / Effcetive area values                          TFORM3  = '1E      '           / data format of field: 4-byte REAL              TUNIT3  = 'cm**2   '           / physical unit of field                         EXTNAME = 'SPECRESP'           / Extension name                                 TELESCOP= 'HALOSAT '           / Mission name                                   INSTRUME= 'SDD     '           / Instrument                                     FILTER  = 'NONE    '           / Filter                                         ORIGIN  = 'UNIVERSITY OF IOWA' / Origin of FITS file                            HDUCLASS= 'OGIP    '           / file format is OGIP standard                   HDUCLAS1= 'RESPONSE'           / extension contains response data               HDUCLAS2= 'SPECRESP'           / extension contains anciellary response         HDUVERS = '1.1.0   '           / version of the file format                     CCLS0001= 'CPF     '           / Dataset Calibration File                       CDTP0001= 'DATA    '           / Calibration file contains data                 CCNM0001= 'SPECRESP  '         / Type of Calibration data                       CVSD0001= '2018-07-01'         / Validity start date                            CVST0001= '00:00:00'           / Validity start time                            CDES0001= 'ANCILLARY RESPONSE' / Brief descriptive summary                      CBD10001= 'MATRIX(XRAYS)'      / Boundary keyword                               DATE    = '2020-01-22T00:00:00' / File creation datetime (UTC)                  CHECKSUM= 'IAEcJ9CZIACaI7CY'   / HDU checksum updated 2020-04-23T23:48:26       DATASUM = '3461518067'         / data unit checksum updated 2020-04-23T23:48:26 END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             =ÌÌÍ=õÂ5EÀ`=õÂ>\)3Œ¨ñ>\)>#×
+4ÀÇ>#×
+>8Qì5×Ò >8Qì>LÌÍ765Ÿ>LÌÍ>aG®8zÙG>aG®>uÂ9PÉ>uÂ>…¸:;>…¸>\):“¬H>\)>™™š;&>™™š>£×
+;‚Y>£×
+>®{;Ðò’>®{>¸Qì<,~>¸Qì>Â\<Q›Ö>Â\>ÌÌÍ<ˆòê>ÌÌÍ>×
+=<gË¢>×
+=>áG®<lÿ/>áG®>ë…<“=>ë…>õÂ<±Fè>õÂ?   <Ó0?   ?¸<ö0?¸?
+=q=Þ­?
+=q?\)=C?\)?zá=0)?zá?™š=AËÍ?™š?¸R=SS÷?¸R?#×
+=dCè?#×
+?(õÃ=tèo?(õÃ?.{=‚|?.{?333=‰øü?333?8Qì=ìÊ?8Qì?=p¤=—›³?=p¤?B\=îd?B\?G®=£ôk?G®?LÌÍ=©¹¡?LÌÍ?Që…=¯B·?Që…?W
+==´Œ??W
+=?\(ö=¹‹6?\(ö?aG®=¾8•?aG®?fff=Â£å?fff?k…=Æß{?k…?p£×=ÊèÉ?p£×?uÂ=Î¿f?uÂ?záH=Òað?záH?€  =ÕÍv?€  ?‚\=ÙÀ?‚\?…¸=Ü÷?…¸?‡®=ßG?‡®?Š=q=á× ?Š=q?ŒÌÍ=ä…J?ŒÌÍ?\)=çÒ?\)?‘ë…=éfX?‘ë…?”zá=ë¯?”zá?—
+==íáJ?—
+=?™™š=ðÚ?™™š?œ(ö=ò8?œ(ö?ž¸R=ôŠ?ž¸R?¡G®=õþœ?¡G®?£×
+=÷âm?£×
+?¦ff=ù¹®?¦ff?¨õÃ=ûˆX?¨õÃ?«…=ýKÕ?«…?®{=ÿ?®{?°£×> [×?°£×?³33>0\?³33?µÂ>]?µÂ?¸Qì>Ît?¸Qì?ºáH>˜ü?ºáH?½p¤>_r?½p¤?À  >#÷?À  ?Â\>èË?Â\?Å¸>¬—?Å¸?Ç®>mX?Ç®?Ê=q=Ðx?Ê=q?ÌÌÍ=Ó2ö?ÌÌÍ?Ï\)=ÕâH?Ï\)?Ñë…=Ø‚Ä?Ñë…?Ôzá=Ûô?Ôzá?×
+==Ý›?×
+=?Ù™š=à!?Ù™š?Ü(ö=â~9?Ü(ö?Þ¸R=äáz?Þ¸R?áG®=çD?áG®?ã×
+=éz?ã×
+?æff=ëíµ?æff?èõÃ=íîu?èõÃ?ë…=æ'&?ë…?î{=ÃT(?î{?ð£×=¼„ò?ð£×?ó33=¼Ð?ó33?õÂ=¾ÅD?õÂ?øQì=À®ª?øQì?úáH=Â‰q?úáH?ýp¤=ÄY+?ýp¤@   =ÆÔ@   @G®=ÇÓ:@G®@\=É€™@\@×
+=Ë(±@×
+@¸=ÌÆ:@¸@ff=Î\@ff@®=ÏêD@®@õÃ=Ñnß@õÃ@
+=q=Òêx@
+=q@…=Ô]J@…@ÌÍ=ÕÇ±@ÌÍ@{=×)×@{@\)=Ø„g@\)@£×=ÙÕ›@£×@ë…=Û +@ë…@33=Û¶5@33@zá=Üõë@zá@Â=Þ.´@Â@
+==ß`K@
+=@Qì=à‹o@Qì@™š=á¯ã@™š@áH=âÎ[@áH@(ö=ãåÖ@(ö@p¤=äøP@p¤@¸R=æ[@¸R@   =ç_@   @!G®=è–@!G®@"\=é	>@"\@#×
+=éÿÙ@#×
+@%¸=êòµ@%¸@&ff=ëž‘@&ff@'®=ìˆw@'®@(õÃ=ím­@(õÃ@*=q=îO7@*=q@+…=ï,@+…@,ÌÍ=ðr@,ÌÍ@.{=ðÛU@.{@/\)=ñ­„@/\)@0£×=ò| @0£×@1ë…=óH@1ë…@333=ôµ@333@4zá=ôÕþ@4zá@5Â=õr\@5Â@7
+==ö1¼@7
+=@8Qì=öï@8Qì@9™š=÷©™@9™š@:áH=øaÀ@:áH@<(ö=ù@<(ö@=p¤=ùËÇ@=p¤@>¸R=ú}à@>¸R@@  =û-j@@  @AG®=ûÛž@AG®@B\=ü‡¥@B\@C×
+=ý2@C×
+@E¸=ýÛ!@E¸@Fff=þ‚'@Fff@G®=ÿ(M@G®@HõÃ=ÿÌƒ@HõÃ@J=q> 7¶@J=q@K…> ˆ¥@K…@LÌÍ> Ø±@LÌÍ@N{>(p@N{@O\)>wy@O\)@P£×>Åì@P£×@Që…>@Që…@S33>aL@S33@Tzá>®g@Tzá@UÂ>úå@UÂ@W
+=>Fã@W
+=@XQì>’Ë@XQì@Y™š>ÝÒ@Y™š@ZáH>(ˆ@ZáH@\(ö>s@\(ö@]p¤>¼ã@]p¤@^¸R>•@^¸R@`  >OÜ@`  @aG®>˜—@aG®@b\>ái@b\@c×
+>)}@c×
+@e¸>q&@e¸@fff>¸á@fff@g®>ÿõ@g®@hõÃ>Fº@hõÃ@j=q>Š@j=q@k…>Ó£@k…@lÌÍ>r@lÌÍ@n{>_D@n{@o\)>¤f@o\)@p£×>é=@p£×@që…>	.$@që…@s33>	r`@s33@tzá>	¶R@tzá@uÂ>	úP@uÂ@w
+=>
+=’@w
+=@xQì>
+€˜@xQì@y™š>
+Ã§@y™š@záH>ú@záH@|(ö>H@|(ö@}p¤>Š/@}p¤@~¸R>Ë–@~¸R@€  >°@€  @€£×>MÔ@€£×@G®>Žh@G®@ë…>Îw@ë…@‚\>…@‚\@ƒ33>NR@ƒ33@ƒ×
+>i@ƒ×
+@„zá>Ì^@„zá@…¸>S@…¸@…Â>Id@…Â@†ff>‡;@†ff@‡
+=>Å@‡
+=@‡®>P@‡®@ˆQì>?@ˆQì@ˆõÃ>{Ç@ˆõÃ@‰™š>¸6@‰™š@Š=q>óä@Š=q@ŠáH>/p@ŠáH@‹…>jê@‹…@Œ(ö>¥¯@Œ(ö@ŒÌÍ>ß÷@ŒÌÍ@p¤>C@p¤@Ž{>T3@Ž{@Ž¸R>q@Ž¸R@\)>Æ{@\)@  >ÿŒ@  @£×>7Å@£×@‘G®>o@‘G®@‘ë…>§J@‘ë…@’\>Þð@’\@“33>Ž@“33@“×
+>Kð@“×
+@”zá>‚Y@”zá@•¸>¸M@•¸@•Â>í‹@•Â@–ff>"—@–ff@—
+=>Wª@—
+=@—®>‹î@—®@˜Qì>¿±@˜Qì@˜õÃ>óV@˜õÃ@™™š>&ù@™™š@š=q>Y @š=q@šáH>‹ó@šáH@›…>¾*@›…@œ(ö>ð6@œ(ö@œÌÍ>!t@œÌÍ@p¤>R]@p¤@ž{>ƒ @ž{@ž¸R>³°@ž¸R@Ÿ\)>Ñº@Ÿ\)@   >ÿ@   @ £×>.…@ £×@¡G®>]ç@¡G®@¡ë…>ŒS@¡ë…@¢\>º’@¢\@£33>è«@£33@£×
+>“@£×
+@¤zá>C­@¤zá@¥¸>pg@¥¸@¥Â>@¥Â@¦ff>É~@¦ff@§
+=>õ6@§
+=@§®> @§®@¨Qì>K©@¨Qì@¨õÃ>vº@¨õÃ@©™š>¡)@©™š@ª=q>Ë@ª=q@ªáH>ôÇ@ªáH@«…>g@«…@¬(ö>G›@¬(ö@¬ÌÍ>p4@¬ÌÍ@­p¤>˜x@­p¤@®{>À²@®{@®¸R>èÃ@®¸R@¯\)>ï@¯\)@°  >6Þ@°  @°£×>]¹@°£×@±G®>„d@±G®@±ë…>ªŠ@±ë…@²\>Ð,@²\@³33>õ @³33@³×
+>ñ@³×
+@´zá>@@´zá@µ¸>dl@µ¸@µÂ>ˆˆ@µÂ@¶ff>¬@¶ff@·
+=>Ð`@·
+=@·®>ó¸@·®@¸Qì>Š@¸Qì@¸õÃ>91@¸õÃ@¹™š>[¿@¹™š@º=q>~3@º=q@ºáH>ŸÉ@ºáH@»…>Á4@»…@¼(ö>â|@¼(ö@¼ÌÍ>œ@¼ÌÍ@½p¤>$d@½p¤@¾{>D­@¾{@¾¸R>d±@¾¸R@¿\)>„™@¿\)@À  >¤i@À  @À£×>ÃÈ@À£×@ÁG®>â£@ÁG®@Áë…>P@Áë…@Â\>ä@Â\@Ã33>>`@Ã33@Ã×
+>\J@Ã×
+@Äzá>yÚ@Äzá@Å¸>—9@Å¸@ÅÂ>´‡@ÅÂ@Æff>Ñ¡@Æff@Ç
+=>îE@Ç
+=@Ç®> 
+‹@Ç®@ÈQì> &²@ÈQì@ÈõÃ> B¬@ÈõÃ@É™š> ^¢@É™š@Ê=q> z@Ê=q@ÊáH> •O@ÊáH@Ë…> °P@Ë…@Ì(ö> Êä@Ì(ö@ÌÌÍ> åb@ÌÌÍ@Íp¤> ÿÍ@Íp¤@Î{>!
+@Î{@Î¸R>!3µ@Î¸R@Ï\)>!M+@Ï\)@Ð  >!fy@Ð  @Ð£×>!¾@Ð£×@ÑG®>!˜è@ÑG®@Ñë…>!±€@Ñë…@Ò\>!ÉÇ@Ò\@Ó33>!áù@Ó33@Ó×
+>!ú@Ó×
+@Ôzá>"%@Ôzá@Õ¸>")Î@Õ¸@ÕÂ>"A@ÕÂ@Öff>"X<@Öff@×
+=>"oN@×
+=@×®>"†I@×®@ØQì>"@ØQì@ØõÃ>"³F@ØõÃ@Ù™š>"É]@Ù™š@Ú=q>"ßa@Ú=q@ÚáH>"õQ@ÚáH@Û…>#%@Û…@Ü(ö># Ž@Ü(ö@ÜÌÍ>#5š@ÜÌÍ@Ýp¤>#J™@Ýp¤@Þ{>#_@Þ{@Þ¸R>#tO@Þ¸R@ß\)>#ˆí@ß\)@à  >#@à  @à£×>#±@à£×@áG®>#Å@áG®@áë…>#Øà@áë…@â\>#ìš@â\@ã33>$ @ã33@ã×
+>$%@ã×
+@äzá>$&@äzá@å¸>$8ò@å¸@åÂ>$KÀ@åÂ@æff>$^s@æff@ç
+=>$pÀ@ç
+=@ç®>$‚Ê@ç®@èQì>$”½@èQì@èõÃ>$¦Ž@èõÃ@é™š>$¸U@é™š@ê=q>$Ê@ê=q@êáH>$Û6@êáH@ë…>$ì@@ë…@ì(ö>$ý4@ì(ö@ìÌÍ>%@ìÌÍ@íp¤>%Ð@íp¤@î{>%/@î{@î¸R>%?©@î¸R@ï\)>%O©@ï\)@ð  >%_›@ð  @ð£×>%o}@ð£×@ñG®>%>@ñG®@ñë…>%Žß@ñë…@ò\>%ž@ò\@ó33>%­@ó33@ó×
+>%¼@ó×
+@ôzá>%ÊÙ@ôzá@õ¸>%Ù–@õ¸@õÂ>%è=@õÂ@öff>%öh@öff@÷
+=>&u@÷
+=@÷®>&^@÷®@øQì>& /@øQì@øõÃ>&-æ@øõÃ@ù™š>&;z@ù™š@ú=q>&H¾@ú=q@úáH>&U¹@úáH@û…>&b™@û…@ü(ö>&o^@ü(ö@üÌÍ>&{ÿ@üÌÍ@ýp¤>&ˆ@ýp¤@þ{>&”ß@þ{@þ¸R>& Ä@þ¸R@ÿ\)>&¬@ÿ\)A   >&¸2A   A Qì>&ÃÇA QìA £×>&Ï=A £×A õÃ>&Ú|A õÃAG®>&åVAG®A™š>&ðA™šAë…>&ú{Aë…A=q>'çA=qA\>'+A\AáH>'IAáHA33>'#1A33A…>',¢A…A×
+>'5ëA×
+A(ö>'?$A(öAzá>'H4AzáAÌÍ>'QAÌÍA¸>'Y¼A¸Ap¤>'b8Ap¤AÂ>'jKAÂA{>'rA{Aff>'yðAffA¸R>'iA¸RA
+=>'ˆßA
+=A\)>'3A\)A®>'—A®A  >'cA  AQì>'£ªAQìA£×>'©æA£×AõÃ>'¯ßAõÃA	G®>'¶A	G®A	™š>'»ŸA	™šA	ë…>'ÀŸA	ë…A
+=q>'ÅWA
+=qA
+\>'Ê\A
+\A
+áH>'Î´A
+áHA33>'Ó=A33A…>'×A…A×
+>'ÚûA×
+A(ö>'Þ£A(öAzá>'â
+AzáAÌÍ>'å$AÌÍA¸>'ç&A¸Ap¤>'é˜Ap¤AÂ>'ì¾AÂA{>'îÆA{Aff>'ð(AffA¸R>'ñAA¸RA
+=>'òA
+=A\)>'óšA\)A®>'óÆA®A  >'ôÑA  AQì>'ô6AQìA£×>'ôkA£×AõÃ>'òîAõÃAG®>'ò€AG®A™š>'ñ¯A™šAë…>'ï#Aë…A=q>'í¯A=qA\>'ëãA\AáH>'éAáHA33>'æÒ                                                                                                                                                                                                                                                                                                            
