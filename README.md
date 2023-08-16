@@ -6,4 +6,4 @@ This repository contains the code used to produce the results in a publication s
 For historical purposes, the codes used to perform the analysis of the heliospheric SWCX published in Ringuette et al. (2021) are also included in the 'HSWCXPaperCode' and 'HSWCXOlderCode' directories, which have similar code types. The 2021 publication is accessible at https://doi.org/10.3847/1538-4357/ac0e33.
 
 Please cite this repository as:  
-Ringuette, R. (2023). Magnetospheric SWCX. Zenodo. https://www.doi.org/10.5281/zenodo.8021786  
+Ringuette, R. (2023). Magnetospheric SWCX. Zenodo. https://www.doi.org/10.5281/zenodo.8252998  
